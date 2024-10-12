@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Riya</h1>
-<h3 align="center">Tech Enthusiast</h3>
-
+<h1>Hi 👋, I'm Riya</h1>
+<h2>Tech Enthusiast</h2>
 <br>
-
-<h3 align="left">⚒ What I Work With</h3>
+<h3 align="left">⚒ What I Work With:</h3>
 
 <div align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="30" alt="angular logo"  />
@@ -74,10 +72,8 @@
 </div>
 
 
-###
-<br>
 
-<h3 align="left">😎 Find Me On</h3>
+<h3 align="left">👀 Find Me On:</h3>
 
 <div align="left">
   <a href="https://www.kaggle.com/rk7777">
@@ -88,4 +84,6 @@
 
 ###
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liz2408&show_icons=true&locale=en&layout=compact" alt="liz2458" /></div>
+<h3 align="left">📈 Github Stats:</h3>
+
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liz2408&show_icons=true&locale=en&layout=compact" alt="liz2458" /></div>
