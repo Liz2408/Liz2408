@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riya</h1>
 <h3 align="center">Tech Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/rk7777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rk7777" height="45" width="45" /></a>
-</p>
+<br>
 
-<h3 align="left">⚒What I Work With:</h3>
+<h3 align="left">⚒ What I Work With</h3>
 
 <div align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="30" alt="angular logo"  />
@@ -78,14 +75,17 @@
 
 
 ###
+<br>
+
+<h3 align="left">😎 Find Me On</h3>
 
 <div align="left">
- <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+  <a href="https://www.kaggle.com/rk7777">
+ <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=white&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />  </a>
   
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/riya-elizabeth-kuriyan/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liz2408&show_icons=true&locale=en&layout=compact" alt="liz2458" /></p>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liz2408&show_icons=true&locale=en&layout=compact" alt="liz2458" /></div>
