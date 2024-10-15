@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Riya</h1>
-<h2>Tech Enthusiast</h2>
+<h3>Tech Enthusiast</h3>
 <br>
 <h3 align="left">⚒ What I Work With:</h3>
 
