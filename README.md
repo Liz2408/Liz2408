@@ -1,9 +1,9 @@
-<h1>Hi 👋, I'm Riya</h1>
-<h3>Tech Enthusiast</h3>
+<h1 align="center">Hey there👋, I'm Riya!</h1>
+<h3 align="center"><i>Tech Enthusiast, Musician and Aspiring Researcher</i></h3>
 <br>
 <h3 align="left">⚒ What I Work With:</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="30" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="30" alt="arduino logo"  />
@@ -77,7 +77,7 @@
 
 <div align="left">
   <a href="https://www.kaggle.com/rk7777">
- <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=white&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />  </a>
+ <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=white&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> </a>
   
   <a href="https://www.linkedin.com/in/riya-elizabeth-kuriyan/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
