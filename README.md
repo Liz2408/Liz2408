@@ -10,8 +10,6 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -20,11 +18,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="30" alt="express logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="figma logo"  />
-  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -52,15 +46,11 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="postman logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="30" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo"  />
-  <img width="12" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30" alt="seaborn logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="spring logo"  />
   <img width="12" />
